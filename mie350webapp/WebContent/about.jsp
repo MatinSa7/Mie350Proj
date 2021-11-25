@@ -32,10 +32,14 @@
 						<div class="col-sm-8 text-left">
 							<h1>Music Quiz teehee</h1>
 							<b>Welcome to the music quiz website! Complete the short quiz to be matched with a listening
+<<<<<<< HEAD
 								community that has similar music taste to you! test </b>
 							<button class="take-quiz-button">
 								Take Quiz!
 							</button>
+=======
+								community that has similar music taste to you! test</b>
+>>>>>>> dacefff94e22b326829df387123ef91b7106b72d
 
 						</div>
 						<div class="col-sm-2 sidenav">
